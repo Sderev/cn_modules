@@ -388,7 +388,7 @@ Notons, que cette loi *empirique* (constatée, mais pas démontrée) s'arrêtera
 [markdown]
 **L'Ordinateur personnel**
 \n
-![Francois Gernelle](media/FrancoisGernelle.jpg)
+![Francois Gernelle](media/francoisGernelle.jpg)
 \n
 Historiquement, les premiers ordinateurs étaient de très grosses machines (appelés *MainFrame* en anglais) occupant des salles entières et dédiés à des traitements de gestion. La miniaturisation a entraîné l'apparition d'ordinateurs pouvant être posés sur des bureaux. C'est la naissance de la *deuxième ère de l'informatique*.
 \n
