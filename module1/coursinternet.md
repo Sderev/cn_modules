@@ -9,43 +9,43 @@ CSS: http://culturenumerique.univ-lille3.fr/css/base.css
 [Informatique et numérique](https://vimeo.com/122104210){: .cours_video }
 
 À l'origine, les ordinateurs étaient réservés aux informaticiens, ou
-plutôt comme cette discipline naissait à peine, aux mathématiciens et
-électroniciens qui les créaient. En anglais un ordinateur se nomme
+plutôt, comme cette discipline naissait à peine, aux mathématiciens et
+électroniciens qui les créaient. En anglais, un ordinateur se nomme
 *computer*, dont la traduction exacte est *calculateur*.
 
-Fondamentalement les ordinateurs ne font que des calculs, ils ne
-savent pas manipuler autre chose que des nombres, qui plus est des
-nombres représentés sous forme binaire c'est-à-dire avec des 0 et
-des 1. En effet, comme toutes les machines électriques la seule
-information qu'ils "comprennent" est de la forme, "y'a du courant" ou
-"y'a pas de courant".
+Fondamentalement, les ordinateurs ne font que des calculs, ils ne
+savent pas manipuler autre chose que des nombres -- qui plus est des
+nombres représentés sous forme binaire, c'est-à-dire avec des 0 et
+des 1. En effet, comme toutes les machines électriques, la seule
+information qu'ils "comprennent" est de la forme : "y'a du courant" ou
+"y'a pas de courant."
 
 Or, aujourd'hui, nous utilisons des ordinateurs tous les jours, non
 pas pour faire des calculs, mais pour réaliser de nombreuses activités
-diverses et variées qu'elles soient professionnelles, liées à nos
+diverses et variées, qu'elles soient professionnelles, liées à nos
 loisirs ou à notre vie quotidienne. Et pourtant, ces ordinateurs ne
 sont toujours que des machines qui font des calculs. Il a donc fallu
-trouver des techniques pour traduire/coder le texte, le son, les
+trouver des techniques pour traduire/coder le texte, le son, et les
 images avec des nombres. C'est ce qu'on appelle la *numérisation*. On
 dit souvent que notre monde est analogique (ou continu) et que le
 monde des machines est numérique (ou digital). Les scanners, appareils
-photo numériques, enregistreurs mp3 par exemple sont des dispositifs
+photo numériques, enregistreurs mp3, par exemple, sont des dispositifs
 qui permettent de passer du monde analogique des hommes au monde
 numérique des machines, c'est-à-dire de numériser les informations
 sous forme de nombres que les ordinateurs vont pouvoir manipuler.
 
 Nous vivons dans un monde où le numérique a pris beaucoup de place :
-internet, la radio, la télévision, la téléphonie, la photographie et
+internet, la radio, la télévision, la téléphonie, la photographie, et
 bien d'autres choses que nous ne soupçonnons pas sont entièrement
-numériques et donc manipulables par des ordinateurs au sens large, par
-exemple, des tablettes, des smartphones, les box adsl, ... en fait toutes
-les machines qui fonctionnent avec des processeurs, (nous reviendrons
+numériques et donc manipulables par des ordinateurs au sens large. Par
+exemple : des tablettes, des smartphones, les box adsl, etc. En fait, toutes
+les machines qui fonctionnent avec des processeurs (nous reviendrons
 sur ce terme).
 
 Cela représente des enjeux de société très importants. Le numérique a
 ouvert des possibilités gigantesques en terme de gain de temps, de
 facilité de traitement, de nouvelles fonctionnalités, d'accès aux
-informations, aux archives, ... Mais en même temps de nouvelles
+informations, aux archives, etc. Mais, en même temps, de nouvelles
 questions sont apparues : où sont stockées les données ? Qui y a accès ?
 Sont-elles en sécurité ? Sommes-nous dépendants de machines, de
 logiciels, de sociétés commerciales ?
@@ -847,15 +847,15 @@ interconnexion devient obligatoire.
 [markdown]Lorsqu'un ordinateur rejoint un réseau, que doit-il
 obtenir pour rejoindre internet ?
 {
-~%33.33333%Une adresseIP.#Oui, entre autres...
-~Un nom de code.#Et non... ~Une autorisation de l'État ?#Vraiment ?
+~%33.33333%Une adresse IP.#Oui, entre autres...
+~Un nom de code.#Eh non... ~Une autorisation de l'État ?#Vraiment ?
 ~%33.33333%L'adresse d'un serveur de noms.#C'est bien l'un
 des éléments.
 ~%33.33333%L'adresse d'un routeur.#Oui, mais pas seulement. ~L'accès à un moteur de recherche.#Pas du tout.
 ####En fait, il doit obtenir 3 éléments \: une adresse IP, l'adresse d'un serveur de noms et l'adresse d'un routeur. }
 
 
-::le routeur::
+::Le routeur::
 [html]Pourquoi la machine qui assure l'interconnexion avec
 les autres réseaux d'internet (le routeur) est-elle une place de choix
 pour y installer des fonctions de filtrage ?
@@ -868,7 +868,6 @@ tout...
 
 
 ::La charte informatique de l'université::
-[markdown]**La charte informatique de l'université**
 Pour utiliser les *services numériques* de l'université, vous avez signé une **charte informatique** lors de votre inscription :
 Quel paragraphe de la charte [http://www.univ-lille3.fr/portail/charte-informatique/](http://www.univ-lille3.fr/portail/charte-informatique/) met en lumière la question du suivi des informations des utilisateurs.
 Si vous vous connectez avec la **4G** depuis l'université, devez-vous respecter cette charte ? Et avec votre smartphone et une connexion wifi ?  
@@ -885,9 +884,6 @@ OUI et OUI, les services numériques en particulier ceux accessibles depuis **l'
 ```activité
 
 ::Utiliser les serveurs de noms::
-[markdown]
-**Utiliser les serveurs de noms**
-\n
 Il existe des *outils* dans votre ordinateur pour interroger les serveurs de noms et faire donc la *conversion* entre `adresses IP` et `noms`. Ils sont intégrés par exemple dans le navigateur web et la plupart des outils qui utilisent internet. Même s'il est possible de les utiliser directement, ils sont assez techniques.
 Nous vous proposons d'utiliser plutôt un **service** disponible sur internet à travers le navigateur : [http://www.monip.fr](http://www.monip.fr)
 Selon ce site :
